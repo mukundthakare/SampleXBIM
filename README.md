@@ -25,3 +25,6 @@ Sample Image -
 ![image](https://github.com/mukundthakare/SampleXBIMApplication/assets/38717053/ba9e6f94-ee2d-4ffc-8843-250b55605e62)
 
 As we can see it is non zero exit code.
+
+# Sample IFC file can be found in - 
+![image](https://github.com/mukundthakare/SampleXBIM/assets/38717053/f1f4bb56-3e8f-4916-9049-287dfaff54b1)
